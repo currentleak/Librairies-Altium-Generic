@@ -1,3 +1,3 @@
-# 247-316_AltiumLibrairies
-- Librairies Schématique
+# AltiumLibrairies Generic
 - Librairies PCB (Empreintes)
+- Librairies Schématique
